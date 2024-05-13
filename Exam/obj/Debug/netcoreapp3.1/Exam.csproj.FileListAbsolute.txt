@@ -1,0 +1,13 @@
+/Users/mavivillatoro/Projects/Exam/bin/Debug/netcoreapp3.1/Exam.deps.json
+/Users/mavivillatoro/Projects/Exam/bin/Debug/netcoreapp3.1/Exam.runtimeconfig.json
+/Users/mavivillatoro/Projects/Exam/bin/Debug/netcoreapp3.1/Exam.runtimeconfig.dev.json
+/Users/mavivillatoro/Projects/Exam/bin/Debug/netcoreapp3.1/Exam.dll
+/Users/mavivillatoro/Projects/Exam/bin/Debug/netcoreapp3.1/Exam.pdb
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.csproj.AssemblyReference.cache
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.AssemblyInfoInputs.cache
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.AssemblyInfo.cs
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.csproj.CoreCompileInputs.cache
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.dll
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.pdb
+/Users/mavivillatoro/Projects/Exam/obj/Debug/netcoreapp3.1/Exam.genruntimeconfig.cache
