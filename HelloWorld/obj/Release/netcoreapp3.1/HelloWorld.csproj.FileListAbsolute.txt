@@ -1,0 +1,13 @@
+/Users/mavivillatoro/Projects/HelloWorld/bin/Release/netcoreapp3.1/HelloWorld.deps.json
+/Users/mavivillatoro/Projects/HelloWorld/bin/Release/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/mavivillatoro/Projects/HelloWorld/bin/Release/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/mavivillatoro/Projects/HelloWorld/bin/Release/netcoreapp3.1/HelloWorld.dll
+/Users/mavivillatoro/Projects/HelloWorld/bin/Release/netcoreapp3.1/HelloWorld.pdb
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.dll
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.pdb
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+/Users/mavivillatoro/Projects/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
