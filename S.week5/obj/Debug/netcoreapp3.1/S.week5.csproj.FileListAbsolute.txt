@@ -1,0 +1,13 @@
+/Users/mavivillatoro/Projects/S.week5/bin/Debug/netcoreapp3.1/S.week5.deps.json
+/Users/mavivillatoro/Projects/S.week5/bin/Debug/netcoreapp3.1/S.week5.runtimeconfig.json
+/Users/mavivillatoro/Projects/S.week5/bin/Debug/netcoreapp3.1/S.week5.runtimeconfig.dev.json
+/Users/mavivillatoro/Projects/S.week5/bin/Debug/netcoreapp3.1/S.week5.dll
+/Users/mavivillatoro/Projects/S.week5/bin/Debug/netcoreapp3.1/S.week5.pdb
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.csproj.AssemblyReference.cache
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.AssemblyInfoInputs.cache
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.AssemblyInfo.cs
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.csproj.CoreCompileInputs.cache
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.dll
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.pdb
+/Users/mavivillatoro/Projects/S.week5/obj/Debug/netcoreapp3.1/S.week5.genruntimeconfig.cache
